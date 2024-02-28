@@ -1,0 +1,2 @@
+# Racunarska-grafika
+GDI, OpenGL
